@@ -28,3 +28,6 @@ Um momento crítico ocorre quando o fogo ameaça uma área de preservação onde
 
 Desfecho:
 Após a contenção do fogo, a comunidade se une para reflorestar a área e implementar medidas para evitar futuros incêndios. Lucas reflete sobre o poder da colaboração para proteger o meio ambiente.
+
+Local onde será realizado o BackLog: GitHub
+Produto Backlog: https://github.com/users/andersonkruger1/projects/1/views/3
